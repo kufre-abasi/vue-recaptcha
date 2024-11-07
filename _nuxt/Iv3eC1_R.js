@@ -1,0 +1,1 @@
+import o from"./CCSPG45E.js";import{d as r,c as t,V as n}from"./Byo096l_.js";const m=r({__name:"SourceLink",props:{source:{type:String,required:!0}},setup(c){return(_,p)=>{const e=o;return t(),n(e)}}});export{m as default};
