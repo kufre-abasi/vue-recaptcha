@@ -1,1 +1,0 @@
-import{_ as n}from"./BYhIS1-3.js";import{d as o,L as t}from"./Lnx50PWQ.js";const s=o({props:{use:{type:Function,default:void 0},unwrap:{type:[Boolean,String],default:!1}},render(e){return t(n,e)}});export{s as default};
