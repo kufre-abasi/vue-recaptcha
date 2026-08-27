@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.0 (2026-08-27)
+
+
+### Bug Fixes
+
+* **performance:** Google reCaptcha redundant loading ([304c76a](https://github.com/kufre-abasi/vue-recaptcha/commit/304c76a3fe8675b3f6699820825482442e83ed58))
+
 ## [2.0.3](https://github.com/DanSnow/vue-recaptcha/compare/v2.0.2...v2.0.3) (2022-09-17)
 
 
